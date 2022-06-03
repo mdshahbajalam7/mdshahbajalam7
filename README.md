@@ -1,21 +1,19 @@
-### Hi there 👋
--->
-## My name is Md Shahbaj alam
-## About
-Aspiring full-stack web development
-            professional, adept at user-specific solutions.
-            Collaborative and team supportive person
-            who is proficient in working with cooperative
-            professionals and executing goal- oriented
-            come to gether projects. Desires to seek a
-            position of Software Developer in a company.
+
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<h1 align="center">Hi <img height="30px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" >, My name is Md Shahbaj Alam</h1>
+<h3 align="center">I'm a FULL STACK WEB DEVELOPER</h3>
+
+
+## About me
+Aspiring full-stack web development professional, adept at user-specific solutions.Collaborative and team supportive person who is proficient in working with cooperative professionals and executing goal- oriented come to gether projects. Desires to seek a position of Software Developer in a company.
+
 - 🔭 I’m currently working on Learning Full Stack Web development
 - 🌱 I’m currently learning MARN Stack
 - 👯 I’m looking to collaborate on user centric web application
 - 💬 Ask me about  Coding | Data structure and algorithm
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/md-shahbaj-alam-7343a320a/">Linkedin</a> | <a href="mdshahbajalam38@gmail.com">Email</a>
 - 😄 Pronouns:MD SHAHBAJ ALAM
--
+- ⚡ Fun fact:Gamer;
 <!-- <div>
  <img src="https://camo.githubusercontent.com/f04bf1a11f710a94d1d8a2eb897c71ed96a1843b978321b385dcfa8c14873ff5/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6d2d7365687261776174266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" >
             <img src="https://camo.githubusercontent.com/5d6fb5a71080e4349ee926d5631cb63290ab1938c95288f6b5abf14f448f6de0/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f6c6c6f776572732f6d2d73656872617761743f6c6162656c3d466f6c6c6f77657273267374796c653d736f6369616c">
@@ -50,7 +48,17 @@ Aspiring full-stack web development
 </div>
  
  ## My Github status:
- <img  src="https://github-readme-stats.vercel.app/api?username=mdshahbajalam7&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="">
- 
- 
--->
+<img src="https://github-readme-stats.vercel.app/api?username=mdshahbajalam7&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
+
+  <a href="https://github.com/mdshahbajalam7/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GUDDU434&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+
+<br/>
+<br/>
+
+<a href="https://github.com/mdshahbajalam7/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mdshahbajalam7&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
