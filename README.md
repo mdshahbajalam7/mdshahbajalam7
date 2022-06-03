@@ -36,7 +36,7 @@ Aspiring full-stack web development
  </div>
  <div style="display flex">
             <h3>Let's Connect !</h3>
-            <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif">
+            <img style="width:"50px;height: 50px;" src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif">
 </div
  <div style="display flex">
             <a href=""><img src="" alt=""></a>
