@@ -1,6 +1,6 @@
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-<h1 align="center">Hi <img height="30px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" >, My name is Md Shahbaj Alam</h1>
+<h1 align="center">Hi <img height="30px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" >, My Name is Md Shahbaj Alam</h1>
 <h3 align="center">I'm a FULL STACK WEB DEVELOPER</h3>
 
 
