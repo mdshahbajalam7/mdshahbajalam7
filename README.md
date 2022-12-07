@@ -48,6 +48,8 @@ Aspiring full-stack web development professional, adept at user-specific solutio
 <img src="https://github-readme-stats.vercel.app/api?username=mdshahbajalam7&show_icons=true&theme=cobalt"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdshahbajalam7&layout=Demo"/>
+
+<!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdshahbajalam7&repo=github-readme-stats"/> -->
 <!--   <a href="https://github.com/mdshahbajalam7/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GUDDU434&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -56,7 +58,8 @@ Aspiring full-stack web development professional, adept at user-specific solutio
 <br/>
 <br/>
 
-<a href="https://github.com/mdshahbajalam7/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mdshahbajalam7&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<!-- <a href="https://github.com/mdshahbajalam7/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mdshahbajalam7&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
+<img src = "https://github-readme-activity-graph.cyclic.app/graph?username=mdshahbajalam7&theme=react-dark"/>
 
 <br/>
 <br/>
