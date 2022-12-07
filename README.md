@@ -41,24 +41,22 @@ Aspiring full-stack web development professional, adept at user-specific solutio
 </div>
  
  ## My Github status:
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=mdshahbajalam7&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/> -->
-<img src = "https://github-profile-trophy.vercel.app/?username=mdshahbajalam7&theme=flat"/>
 
+<img src = "https://github-profile-trophy.vercel.app/?username=mdshahbajalam7&theme=flat"/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=mdshahbajalam7&show_icons=true&theme=cobalt"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdshahbajalam7&layout=Demo"/>
 
 <img src="https://streak-stats.demolab.com/?user=mdshahbajalam7&theme=dark"/>
-<!--   <a href="https://github.com/mdshahbajalam7/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GUDDU434&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
+
+<img src = "https://github-stats-alpha.vercel.app/api?username=mdshahbajalam7&cc=000&tc=fff&ic=fff&bc=000"/>
+
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
 <br/>
 <br/>
 
-<!-- <a href="https://github.com/mdshahbajalam7/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mdshahbajalam7&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 <img src = "https://github-readme-activity-graph.cyclic.app/graph?username=mdshahbajalam7&theme=react-dark"/>
 
 <br/>
