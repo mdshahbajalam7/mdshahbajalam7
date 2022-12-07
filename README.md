@@ -46,7 +46,9 @@ Aspiring full-stack web development professional, adept at user-specific solutio
 
 <img src="https://github-readme-stats.vercel.app/api?username=mdshahbajalam7&show_icons=true&theme=cobalt"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdshahbajalam7&layout=Demo"/>
+<!-- <img/> -->
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdshahbajalam7&layout=Compact"/>
 
 <img src="https://streak-stats.demolab.com/?user=mdshahbajalam7&theme=dark"/>
 
