@@ -8,7 +8,7 @@
 Aspiring full-stack web development professional, adept at user-specific solutions.Collaborative and team supportive person who is proficient in working with cooperative professionals and executing goal- oriented come to gether projects. Desires to seek a position of Software Developer in a company.
 
 - 🔭 I’m currently working on Learning Full Stack Web development
-- 🌱 I’m currently learning MARN Stack
+- 🌱 I’m currently learning MERN Stack
 - 👯 I’m looking to collaborate on user centric web application
 - 💬 Ask me about  Coding | Data structure and algorithm
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/md-shahbaj-alam-7343a320a/">Linkedin</a> | <a href="mdshahbajalam38@gmail.com">Email</a>
