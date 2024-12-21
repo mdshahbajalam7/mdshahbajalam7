@@ -5,10 +5,10 @@
 
 
 ## About me
-Aspiring full-stack web development professional, adept at user-specific solutions. The collaborative and team-supportive person who is proficient in working with cooperative professionals and executing goal-oriented come-together projects—desires to seek a position of a Software Developer in a company.
+I am an experienced Full-Stack Developer with 19 months of hands-on expertise in the MERN stack, specializing in building scalable healthcare and e-commerce applications. A Mechanical Engineering graduate from Cambridge Institute of Technology, Ranchi, I have developed innovative systems enabling seamless collaboration between users and replicated platforms like Amazon Prime Video, Tanishq, and Instagram.
 
-- 🔭 I’m currently working on Full Stack Web development
-- 🌱 I’m currently working on MERN Stack
+- 🔭 I’m currently seeking for a new job opportunity as Full Stack Web developer.
+- 🌱 I’m an experienced MERN-stack Developer.
 - 👯 I’m looking to collaborate on a user-centric web application
 - 💬 Ask me about  Coding | Data structure and algorithm
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/md-shahbaj-alam-7343a320a/">Linkedin</a> | <a href="mdshahbajalam38@gmail.com">Email</a>
