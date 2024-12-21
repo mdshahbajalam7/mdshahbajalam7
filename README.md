@@ -20,10 +20,7 @@ I am an experienced Full-Stack Developer with 19 months of hands-on expertise in
 </p>
 
 
- ## Contact Me:
- <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/md-shahbaj-alam-7343a320a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-shahbaj-alam-7343a320a/" height="30" width="40" /></a>
-</p>
+ 
 
 
 
@@ -49,3 +46,7 @@ I am an experienced Full-Stack Developer with 19 months of hands-on expertise in
 
  [![Md Shahbaj Alam github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mdshahbajalam7&theme=dracula)](https://github.com/mdshahbajalam7/github-readme-activity-graph)
 
+## Contact Me:
+ <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/md-shahbaj-alam-7343a320a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-shahbaj-alam-7343a320a/" height="30" width="40" /></a>
+</p>
