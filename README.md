@@ -5,7 +5,7 @@
 
 
 ## About me
-I am an experienced Full-Stack Developer with 19 months of hands-on expertise in the MERN stack, specializing in building scalable healthcare and e-commerce applications. A Mechanical Engineering graduate from Cambridge Institute of Technology, Ranchi, I have developed innovative systems enabling seamless collaboration between users and replicated platforms like Amazon Prime Video, Tanishq, and Instagram.
+I am an experienced Full-Stack Developer with 1year 7 months of hands-on expertise in the MERN stack, specializing in building scalable healthcare and e-commerce applications. A Mechanical Engineering graduate from Cambridge Institute of Technology, Ranchi, I have developed innovative systems enabling seamless collaboration between users and replicated platforms like Amazon Prime Video, Tanishq, and Instagram.
 
 - 🔭 I’m currently seeking for a new job opportunity as Full Stack Web developer.
 - 🌱 I’m an experienced MERN-stack Developer.
